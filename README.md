@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
 <h3 align="center">Flutter developer</h3>
 
-<a href="https://www.fiverr.com/share/aYrgjW"><img src="https://i.ibb.co/02ZW45c/banner.png" alt="banner" border="0" width="100%"></a>
+<a href="https://www.fiverr.com/share/aYrgjW"><img src="https://github.com/Abdulah-butt/Abdulah-butt/blob/main/abdullah%20butt.png" alt="banner" border="0" width="100%"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=butt09&label=Profile%20views&color=0e75b6&style=flat" alt="Abdulah-butt" /> </p>
 
