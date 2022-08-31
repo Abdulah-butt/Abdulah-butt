@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **flutter,dart,java,frontend,android,iOS**
 
-- 📫 How to reach me **abdullahbut12320@gmail.com**
+- 📫 How to reach me **abdullahbutt12320@gmail.com**
 
 - 📄 Know about my experiences [www.fiverr.com/abdullahbutt590](www.fiverr.com/abdullahbutt590)
 
