@@ -22,7 +22,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/call_Me_Abd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="call_Me_Abd" height="30" width="40" /></a>
-<a href="https://instagram.com/butt7940" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="butt7940" height="30" width="40" /></a>
+<a href="https://instagram.com/_abd_butt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_abd_butt" height="30" width="40" /></a>
 <a href="https://www.fiverr.com/share/aYrgjW" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="abdullahbutt590" height="30" width="40" /></a>
 </p>
 
