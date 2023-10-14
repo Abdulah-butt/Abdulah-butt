@@ -1,0 +1,84 @@
+==== fOR flutteFire CLI ====
+export PATH="$PATH":"$HOME/.pub-cache/bin"
+
+sudo killall -STOP -c usbd
+
+====== IOS encryption =========
+
+<key>ITSAppUsesNonExemptEncryption</key>  
+<false/>
+
+
+====== connect with localhost ==========
+
+adb reverse tcp:5000 tcp:5000
+
+
+====== ANDROID SHA =================
+keytool -list -v -keystore "%USERPROFILE%\.android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
+
+===== IOS SHA =================
+keytool -list -v -alias androiddebugkey -keystore ~/.android/debug.keystore -storepass android -keypass android
+
+
+===== ANDROID MENIFIEST PERMISSIONS ======
+https://github.com/Baseflow/flutter-permission-handler/blob/master/permission_handler/example/android/app/src/main/AndroidManifest.xml
+
+
+======= color flutter =====
+https://infinum.com/blog/flutter-color-schemes/
+
+==== MULTI LANGUAGE ================
+1) After setup easy localization from pkg doc
+2) flutter pub run easy_localization:generate -S "assets/translations" -O "lib/util/services/translation"
+3) Add CodeGenerator Object on Material
+4) generate keys
+5) flutter pub run easy_localization:generate -S "assets/translations" -O "lib/util/services/translation" -o "locale_keys.g.dart" -f keys
+
+
+============ ONESIGNAL APP ICON ===============
+https://stackoverflow.com/questions/62205374/flutter-onesignal-notifications-icon-not-set
+
+
+======== IOS UNI lInks ================
+
+https://docs.flutter.dev/cookbook/navigation/set-up-universal-links
+https://branch.io/resources/aasa-validator/
+
+
+
+--------------for web release----------------------
+
+flutter build web --web-renderer html --release
+flutter build web --web-renderer canvaskit --release
+
+
+firebase deploy --only hosting:hospital-262b4
+
+------------------------------------------------------
+
+=====> scrolling to last auto (Rek project or relaid)
+====> OneSignal ===> rek/relaid
+
+
+--------------------facebook login------------------
+
+generate hash from sha1 => http://tomeko.net/online_tools/hex_to_base64.php
+
+keytool -exportcert -alias androiddebugkey -keystore "C:\Users\hp\.android\debug.keystore" | openssl sha1 -binary | openssl base64      
+
+https://facebook.meedu.app/docs/4.x.x/android
+https://developers.facebook.com/docs/facebook-login/android
+
+
+
+----------------Google pay-------------------------
+
+https://developers.google.com/pay/api/android/reference/request-objects#PaymentDataRequest
+
+
+========= ADMOB IOS =============
+-> connect adsense
+-> upload add.txt file on hosting and add url in App Store marketing 
+-> add tracking permission in info.plist
+-> test in live mode from App Store download
