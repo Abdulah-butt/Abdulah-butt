@@ -7,6 +7,36 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdulah-butt" alt="Abdulah-butt" /></a> </p>
 
+
+# Projects
+
+## Project: Lookout (Android & IOS)
+
+**Description:** ntroducing Lookout: Your Ultimate Crime Alert & Neighborhood Watch Companion
+
+🚨 Stay Ahead of Crime 🚨
+With Lookout, you're never in the dark about criminal activity in your area. Create and share alerts for various criminal incidents, instantly notifying your community. It's your power to make your neighborhood safer.
+
+**Architecture:** Clean Code Architecture, Layered Approach used (data, domain, presentation layers), REST APIs, OneSignal Notifications, Google Maps
+
+**State Management:** BLoC (cubit)
+
+
+<div style="display: flex; justify-content: center;">
+  <p align="center">
+    <a href="https://play.google.com/store/apps/details?id=com.app.lookout">
+      <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200" alt="AppStore">
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://apps.apple.com/us/app/lookout-watchgroup/id6467555973">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Download_on_the_App_Store_Badge_IT_RGB_blk.svg/800px-Download_on_the_App_Store_Badge_IT_RGB_blk.svg.png" width="180" alt="Google Play Store">
+    </a>
+  </p>
+</div>
+
+
+
 <p align="left"> <a href="https://twitter.com/call_Me_Abd" target="blank"><img src="https://img.shields.io/twitter/follow/call_Me_Abd?logo=twitter&style=for-the-badge" alt="call_Me_Abd" /></a> </p>
 
 - 🌱 I’m currently learning **NodeJs**
