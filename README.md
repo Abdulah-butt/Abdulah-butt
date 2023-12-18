@@ -13,7 +13,6 @@
 ## Lookout Mobile app(Android & IOS)
 
 **Description:** Introducing Lookout: Your Ultimate Crime Alert & Neighborhood Watch Companion
-
 🚨 Stay Ahead of Crime 🚨
 With Lookout, you're never in the dark about criminal activity in your area. Create and share alerts for various criminal incidents, instantly notifying your community. It's your power to make your neighborhood safer.
 
