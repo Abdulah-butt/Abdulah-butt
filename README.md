@@ -160,7 +160,7 @@ With Lookout, you're never in the dark about criminal activity in your area. Cre
 
 - 👯 I’m looking to collaborate on **flutter apps**
 
-- 💬 Ask me about **flutter,dart,java,frontend,android,iOS**
+- 💬 Ask me about **flutter, dart,java, frontend,android, iOS**
 
 - 📫 How to reach me **abdullahbutt12320@gmail.com**
 
