@@ -1,3 +1,16 @@
+====== OPENING BASH========
+vim ~/.zshrc 
+============================
+
+
+https://resocoder.com/flutter-clean-architecture-tdd/
+
+
+====== ALL JAVA AVAILABLE VERSIONS ========
+/usr/libexec/java_home -V
+======================================
+
+
 ==== fOR flutteFire CLI ====
 export PATH="$PATH":"$HOME/.pub-cache/bin"
 
@@ -12,6 +25,13 @@ sudo killall -STOP -c usbd
 ====== connect with localhost ==========
 
 adb reverse tcp:5000 tcp:5000
+
+# For Device 1
+adb -s <device_serial_1> reverse tcp:3000 tcp:3000
+
+# For Device 2
+adb -s <device_serial_2> reverse tcp:4000 tcp:3000
+
 
 
 ====== ANDROID SHA =================
