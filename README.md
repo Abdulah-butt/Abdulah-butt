@@ -8,10 +8,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdulah-butt" alt="Abdulah-butt" /></a> </p>
 
 
-# Projects
+## 🚀 Featured Projects
 
 
-## TripPlnr mobile app(Android & IOS)
+### TripPlnr mobile app(Android & IOS)
 
 **Description:** Traveling with family? No problem! Enjoy tailored experiences like the "Colosseum and Ancient Rome Tour," perfect for creating cherished memories together. TripPLNR caters to all types of travellers, ensuring that everyone can find activities and attractions that suit their preferences and interests.
 Effortless Trip Planning and Booking.
@@ -39,7 +39,7 @@ Effortless Trip Planning and Booking.
 
 
 
-## StepUp Social app(Android & IOS)
+### StepUp Social app(Android & IOS)
 
 **Description:** Discover and share skills with StepUp, the ultimate how-to platform with short, swipeable video tutorials. Whether you're fixing a puncture, mastering a new recipe, or exploring DIY home projects, StepUp makes it easy to find what you're looking for.
 For creators, StepUp isn’t just a community; it’s an opportunity. Connect your Stripe account, create premium content, and start building your subscriber base today—turn your knowledge into revenue without ads, agencies or affiliates.
@@ -63,7 +63,7 @@ Join the StepUp community and step up your skills, one swipe at a time!
 ----
 
 
-## Lookout Mobile app(Android & IOS)
+### Lookout Mobile app(Android & IOS)
 
 **Description:** Introducing Lookout: Your Ultimate Crime Alert & Neighborhood Watch Companion
 🚨 Stay Ahead of Crime 🚨
@@ -91,7 +91,7 @@ With Lookout, you're never in the dark about criminal activity in your area. Cre
 
 
 
-## K-Doc ( beauty care app, Android & IOS)
+### K-Doc ( beauty care app, Android & IOS)
 
 **Description:** The app consists of 4 sections: Home/Reservation/Events/Reviews. The home screen consists of a banner ad. at the top and a list of events below it. Among the banner ads, there can be a group purchase event, which is an event where a certain number of people can receive an additional discount if they apply for the event within the deadline. In the Reservation section, you can see introductions and related information of hospitals, make a reservation for the hospital, or leave a simple question.
 
@@ -117,7 +117,7 @@ With Lookout, you're never in the dark about criminal activity in your area. Cre
 
 
 
-## Rock & Love  ( Music bands app, Android & IOS)
+### Rock & Love  ( Music bands app, Android & IOS)
 
 **Description:** An application for bands and listeners allows for easy management of concerts, organizing events, interacting with fans, and promoting their music.
 
@@ -144,7 +144,7 @@ With Lookout, you're never in the dark about criminal activity in your area. Cre
 
 
 
-## Mesnaf (Banking app for private use, IOS)
+### Mesnaf (Banking app for private use, IOS)
 
 **Description:** Masnaf is a special application for coupons for beneficiaries, displaying and displaying coupons, where the association adds a coupon through which the beneficiary sends the coupon to the merchant to benefit from it.
 
@@ -165,7 +165,7 @@ With Lookout, you're never in the dark about criminal activity in your area. Cre
 
 
 
-## ChatG (App exact like chatGPT, IOS)
+### ChatG (App exact like chatGPT, IOS)
 
 **Description:** This app always works with the latest and publicly available GPT API. We also plan to add useful and interesting features that do not exist in the GPT3.5 UI.
 
@@ -186,7 +186,7 @@ With Lookout, you're never in the dark about criminal activity in your area. Cre
 
 
 
-## Land.cy (webview app, IOS)
+### Land.cy (webview app, IOS)
 
 **Description:** Land.cy helps you find plots, fields, and other types of real estate advertised by real estate agents, property developers and asset management companies.
 
