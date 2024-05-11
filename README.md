@@ -10,6 +10,59 @@
 
 # Projects
 
+
+## TripPlnr mobile app(Android & IOS)
+
+**Description:** Traveling with family? No problem! Enjoy tailored experiences like the "Colosseum and Ancient Rome Tour," perfect for creating cherished memories together. TripPLNR caters to all types of travellers, ensuring that everyone can find activities and attractions that suit their preferences and interests.
+Effortless Trip Planning and Booking.
+
+**Architecture:** Clean Code Architecture, Layered Approach used (data, domain, presentation layers), REST APIs, Google Maps
+
+**State Management:** BLoC (cubit)
+
+
+<div style="display: flex; justify-content: center;">
+  <p align="center">
+    <a href="https://play.google.com/store/apps/details?id=com.app.tripPLNR">
+      <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200" alt="AppStore">
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://apps.apple.com/us/app/tripplnr-com/id6470180069">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Download_on_the_App_Store_Badge_IT_RGB_blk.svg/800px-Download_on_the_App_Store_Badge_IT_RGB_blk.svg.png" width="180" alt="Google Play Store">
+    </a>
+  </p>
+</div>
+
+----
+
+
+
+
+## StepUp Social app(Android & IOS)
+
+**Description:** Discover and share skills with StepUp, the ultimate how-to platform with short, swipeable video tutorials. Whether you're fixing a puncture, mastering a new recipe, or exploring DIY home projects, StepUp makes it easy to find what you're looking for.
+For creators, StepUp isn’t just a community; it’s an opportunity. Connect your Stripe account, create premium content, and start building your subscriber base today—turn your knowledge into revenue without ads, agencies or affiliates.
+Join the StepUp community and step up your skills, one swipe at a time!
+
+
+**Architecture & Features:** Clean Code Architecture, REST APIs, Google Maps, OneSignal Push Notifications, Stripe Payment, Multi-Vendor, Stripe Connect Account.
+
+
+**State Management:** BLoC (cubit)
+
+
+<div style="display: flex; justify-content: center;">
+  <p align="center">
+    <a href="https://apps.apple.com/us/app/stepup-social/id6477533577">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Download_on_the_App_Store_Badge_IT_RGB_blk.svg/800px-Download_on_the_App_Store_Badge_IT_RGB_blk.svg.png" width="180" alt="Google Play Store">
+    </a>
+  </p>
+</div>
+
+----
+
+
 ## Lookout Mobile app(Android & IOS)
 
 **Description:** Introducing Lookout: Your Ultimate Crime Alert & Neighborhood Watch Companion
