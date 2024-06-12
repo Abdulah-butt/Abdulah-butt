@@ -217,7 +217,7 @@ With Lookout, you're never in the dark about criminal activity in your area. Cre
 
 - 📫 How to reach me **abdullahbutt12320@gmail.com**
 
-- 📄 Know about my experiences [www.fiverr.com/abdullahbutt590](www.fiverr.com/abdullahbutt590)
+- 📄 Know about my experiences **www.fiverr.com/abdullahbutt590**
 
 <h3 align="center">Connect with me:</h3>
 <p align="left">
