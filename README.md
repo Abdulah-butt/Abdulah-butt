@@ -15,9 +15,6 @@
   <a href="https://www.fiverr.com/abdullahbutt590?public_mode=true">
     <img src="https://img.shields.io/badge/Fiverr-Profile-0B1220?style=for-the-badge&logo=fiverr&logoColor=1DBF73" alt="Fiverr" />
   </a>
-  <a href="https://www.youtube.com/watch?v=VCPGMjCW0is">
-    <img src="https://img.shields.io/badge/Intro-Video-120B10?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="Intro video" />
-  </a>
 </p>
 
 <p align="center">
@@ -80,62 +77,130 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://play.google.com/store/apps/details?id=com.app.tripPLNR">
-        <img src="https://kodingklouds.com/assets/triplnr-Ba01_9Tw.jpg" alt="TripPlanner preview" width="100%" />
+      <a href="https://play.google.com/store/apps/details?id=com.hyperfocus.app">
+        <img src="./assets/project-cards/hyperfocus.svg" alt="Hyperfocus App project preview" width="100%" />
       </a>
+      <p align="center"><sub>FOCUS AUDIO APP</sub></p>
+      <h3 align="center">Hyperfocus App</h3>
+      <p align="center">
+        Focus and calming audio product built for study, sleep, Pomodoro-style sessions, and low-friction daily concentration.
+      </p>
+      <p align="center"><code>ADHD-Friendly</code> <code>Sound Modes</code> <code>Pomodoro</code></p>
+      <p align="center"><strong>Launch:</strong> Live on Google Play</p>
+      <p align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.hyperfocus.app">Android</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://play.google.com/store/apps/details?id=com.app.a2b">
+        <img src="./assets/project-cards/a2b.svg" alt="A2B ride hailing project preview" width="100%" />
+      </a>
+      <p align="center"><sub>RIDE HAILING APP</sub></p>
+      <h3 align="center">A2B Ride Hailing</h3>
+      <p align="center">
+        Ride-matching app for passengers and drivers in Norway with real-time GPS tracking, verified profiles, and direct driver payments.
+      </p>
+      <p align="center"><code>Mobility</code> <code>GPS Tracking</code> <code>Driver Network</code></p>
+      <p align="center"><strong>Launch:</strong> Live on Google Play</p>
+      <p align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.app.a2b">Android</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://play.google.com/store/apps/details?id=com.app.loop_radio">
+        <img src="./assets/project-cards/loop24.svg" alt="LOOP24 radio project preview" width="100%" />
+      </a>
+      <p align="center"><sub>RADIO STREAMING APP</sub></p>
+      <h3 align="center">LOOP24 Radio Polska</h3>
+      <p align="center">
+        Nonstop Polish radio streaming app with fast playback, background listening, and a simple tap-to-play experience.
+      </p>
+      <p align="center"><code>24/7 Stream</code> <code>Background Audio</code> <code>Polish Market</code></p>
+      <p align="center"><strong>Launch:</strong> Live on Google Play</p>
+      <p align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.app.loop_radio">Android</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://play.google.com/store/apps/details?id=com.app.ai.habit_tracker_ai">
+        <img src="./assets/project-cards/ai-habit.svg" alt="AI Habit Builder Tracker project preview" width="100%" />
+      </a>
+      <p align="center"><sub>AI PRODUCTIVITY APP</sub></p>
+      <h3 align="center">AI Habit Builder Tracker</h3>
+      <p align="center">
+        AI-powered habit tracker with personalized plans, reminders, streaks, and progress insights for productivity and wellness goals.
+      </p>
+      <p align="center"><code>Google Gemini</code> <code>Smart Reminders</code> <code>Habit Loops</code></p>
+      <p align="center"><strong>Launch:</strong> Live on Google Play</p>
+      <p align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.app.ai.habit_tracker_ai">Android</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://play.google.com/store/apps/details?id=com.app.tripPLNR">
+        <img src="./assets/project-cards/tripplanner.png" alt="TripPlanner product preview" width="100%" />
+      </a>
+      <p align="center"><sub>TRAVEL PRODUCT</sub></p>
       <h3 align="center">TripPlanner</h3>
       <p align="center">
         Travel planning app that helps users search, compare, and book tickets, tours, and activities across 2500+ destinations.
       </p>
-      <p align="center"><strong>Impact:</strong> 300%+ engagement lift</p>
       <p align="center"><code>Flutter</code> <code>Firebase</code> <code>Node.js</code> <code>AI/ML</code></p>
+      <p align="center"><strong>Outcome:</strong> 300%+ engagement lift</p>
       <p align="center">
-        <a href="https://play.google.com/store/apps/details?id=com.app.tripPLNR">Play Store</a> |
-        <a href="https://apps.apple.com/us/app/tripplnr-com/id6470180069">App Store</a>
+        <a href="https://play.google.com/store/apps/details?id=com.app.tripPLNR">Android</a> |
+        <a href="https://apps.apple.com/us/app/tripplnr-com/id6470180069">iOS</a>
       </p>
     </td>
     <td width="50%" valign="top">
       <a href="https://play.google.com/store/apps/details?id=com.app.gtechofficial&hl=en">
-        <img src="https://kodingklouds.com/assets/gtc-Cdc6YPal.png" alt="GTC Wallet preview" width="100%" />
+        <img src="./assets/project-cards/gtc-wallet.png" alt="GTC Wallet product preview" width="100%" />
       </a>
+      <p align="center"><sub>CRYPTO REWARDS APP</sub></p>
       <h3 align="center">GTC Wallet</h3>
       <p align="center">
         Cryptocurrency wallet and rewards product built for network growth, task completion, social engagement, and community activation.
       </p>
-      <p align="center"><strong>Impact:</strong> 60% ops reduction</p>
       <p align="center"><code>Flutter</code> <code>BLoC</code> <code>Crypto</code> <code>Firebase</code></p>
+      <p align="center"><strong>Outcome:</strong> 60% ops reduction</p>
       <p align="center">
-        <a href="https://play.google.com/store/apps/details?id=com.app.gtechofficial&hl=en">Play Store</a>
+        <a href="https://play.google.com/store/apps/details?id=com.app.gtechofficial&hl=en">Android</a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://apps.apple.com/us/app/land-cy/id6450110690">
-        <img src="https://kodingklouds.com/assets/landcy-e0vNMsXf.png" alt="Landcy preview" width="100%" />
+        <img src="./assets/project-cards/landcy.png" alt="Landcy product preview" width="100%" />
       </a>
+      <p align="center"><sub>REAL ESTATE PLATFORM</sub></p>
       <h3 align="center">Landcy</h3>
       <p align="center">
         Real estate platform for plots, fields, and other property listings with search, filtering, and alert-driven discovery.
       </p>
-      <p align="center"><strong>Impact:</strong> 70% faster search</p>
       <p align="center"><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Firebase</code></p>
+      <p align="center"><strong>Outcome:</strong> 70% faster search</p>
       <p align="center">
-        <a href="https://apps.apple.com/us/app/land-cy/id6450110690">App Store</a>
+        <a href="https://apps.apple.com/us/app/land-cy/id6450110690">iOS</a>
       </p>
     </td>
     <td width="50%" valign="top">
       <a href="https://play.google.com/store/apps/details?id=com.aldroid.voidspace_ai">
-        <img src="https://kodingklouds.com/assets/voidspace-Dg_TCXbd.png" alt="VoidSpace preview" width="100%" />
+        <img src="./assets/project-cards/voidspace.png" alt="VoidSpace product preview" width="100%" />
       </a>
+      <p align="center"><sub>RETENTION-LED APP</sub></p>
       <h3 align="center">VoidSpace</h3>
       <p align="center">
         Gamified life and showcase platform built around retention, personalized user flows, and strong product-led engagement loops.
       </p>
-      <p align="center"><strong>Impact:</strong> 250% retention boost</p>
       <p align="center"><code>Flutter</code> <code>Node.js</code> <code>MongoDB</code> <code>AWS</code></p>
+      <p align="center"><strong>Outcome:</strong> 250% retention boost</p>
       <p align="center">
-        <a href="https://play.google.com/store/apps/details?id=com.aldroid.voidspace_ai">Play Store</a>
+        <a href="https://play.google.com/store/apps/details?id=com.aldroid.voidspace_ai">Android</a>
       </p>
     </td>
   </tr>
@@ -149,25 +214,34 @@
     <tr>
       <td width="33%" valign="top">
         <a href="https://play.google.com/store/apps/details?id=com.salim.user">
-          <img src="https://kodingklouds.com/assets/salim-DgjvS_h5.jpeg" alt="Salim Service preview" width="100%" />
+          <img src="./assets/project-cards/salim.jpeg" alt="Salim Service product preview" width="100%" />
         </a>
-        <p align="center"><strong>Salim Service</strong></p>
+        <p align="center"><sub>FIELD SERVICES PLATFORM</sub></p>
+        <h3 align="center">Salim Service</h3>
         <p align="center">Booking platform for home maintenance and service operations.</p>
-        <p align="center"><strong>Result:</strong> $1M+ first-year projection</p>
+        <p align="center"><code>Flutter</code> <code>Operations</code> <code>Bookings</code></p>
+        <p align="center"><strong>Outcome:</strong> $1M+ first-year projection</p>
+        <p align="center"><a href="https://play.google.com/store/apps/details?id=com.salim.user">Android</a></p>
       </td>
       <td width="33%" valign="top">
         <a href="https://apps.apple.com/us/app/%D9%85%D8%B3%D9%86%D8%A7%D9%81/id6471083459">
-          <img src="https://kodingklouds.com/assets/mesnaf-DK4aSjG9.jpg" alt="Mesnaf preview" width="100%" />
+          <img src="./assets/project-cards/mesnaf.png" alt="Mesnaf product preview" width="100%" />
         </a>
-        <p align="center"><strong>Mesnaf</strong></p>
+        <p align="center"><sub>FINTECH PRODUCT</sub></p>
+        <h3 align="center">Mesnaf</h3>
         <p align="center">Banking and finance product with AI-driven insight workflows.</p>
-        <p align="center"><strong>Result:</strong> 80% faster analysis</p>
+        <p align="center"><code>Finance</code> <code>AI Workflows</code> <code>iOS</code></p>
+        <p align="center"><strong>Outcome:</strong> 80% faster analysis</p>
+        <p align="center"><a href="https://apps.apple.com/us/app/%D9%85%D8%B3%D9%86%D8%A7%D9%81/id6471083459">iOS</a></p>
       </td>
       <td width="33%" valign="top">
-        <img src="https://kodingklouds.com/assets/titaf_dashboard-BciXxbUB.jpg" alt="Titaf Admin preview" width="100%" />
-        <p align="center"><strong>Titaf Admin</strong></p>
+        <img src="./assets/project-cards/titaf.jpg" alt="Titaf Admin product preview" width="100%" />
+        <p align="center"><sub>OPERATIONS DASHBOARD</sub></p>
+        <h3 align="center">Titaf Admin</h3>
         <p align="center">Ops dashboard for users, artisans, orders, payments, and support workflows.</p>
-        <p align="center"><strong>Result:</strong> 70% fewer support tickets</p>
+        <p align="center"><code>Admin</code> <code>Support</code> <code>Payments</code></p>
+        <p align="center"><strong>Outcome:</strong> 70% fewer support tickets</p>
+        <p align="center"><a href="https://kodingklouds.com/">Studio Portfolio</a></p>
       </td>
     </tr>
   </table>

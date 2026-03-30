@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Hyperfocus App project card</title>
+  <desc id="desc">Focus audio product with ambient soundscapes, study and sleep modes, and Pomodoro sessions.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#06141B" />
+      <stop offset="55%" stop-color="#0D2A34" />
+      <stop offset="100%" stop-color="#1F7A8C" />
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#E5FBFF" />
+      <stop offset="100%" stop-color="#8EE6F8" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" rx="36" fill="url(#bg)" />
+  <circle cx="1010" cy="120" r="130" fill="#8EE6F8" opacity=".12" />
+  <circle cx="1110" cy="620" r="180" fill="#B9FFF8" opacity=".08" />
+  <path d="M0 560C140 500 260 500 360 540C475 586 602 618 740 564C854 520 978 483 1200 540V720H0Z" fill="#021016" opacity=".42" />
+  <rect x="74" y="78" width="270" height="50" rx="25" fill="#FFFFFF" opacity=".12" />
+  <text x="106" y="111" fill="#C6F7FF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="4">FOCUS AUDIO APP</text>
+  <text x="74" y="224" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="78" font-weight="800">Hyperfocus</text>
+  <text x="74" y="300" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="78" font-weight="800">App</text>
+  <text x="74" y="386" fill="#D8F7FF" font-family="Segoe UI, Arial, sans-serif" font-size="30">Ambient sounds for focus, calm, study,</text>
+  <text x="74" y="426" fill="#D8F7FF" font-family="Segoe UI, Arial, sans-serif" font-size="30">sleep, and Pomodoro-friendly routines.</text>
+  <rect x="74" y="500" width="188" height="56" rx="28" fill="#FFFFFF" opacity=".14" />
+  <rect x="278" y="500" width="186" height="56" rx="28" fill="#FFFFFF" opacity=".14" />
+  <rect x="480" y="500" width="210" height="56" rx="28" fill="#FFFFFF" opacity=".14" />
+  <text x="113" y="536" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">ADHD-friendly</text>
+  <text x="332" y="536" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Sound modes</text>
+  <text x="534" y="536" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Pomodoro flow</text>
+  <rect x="74" y="604" width="254" height="54" rx="27" fill="#09151B" opacity=".82" stroke="#8EE6F8" stroke-opacity=".5" />
+  <circle cx="112" cy="631" r="9" fill="#8EE6F8" />
+  <text x="136" y="639" fill="#E5FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="700">Live on Google Play</text>
+  <rect x="792" y="112" width="254" height="496" rx="46" fill="#0A1218" stroke="#A8F6FF" stroke-opacity=".35" stroke-width="4" />
+  <rect x="812" y="150" width="214" height="378" rx="28" fill="url(#screen)" />
+  <circle cx="919" cy="208" r="46" fill="#0D2A34" opacity=".14" />
+  <path d="M881 208h76" stroke="#0D2A34" stroke-width="8" stroke-linecap="round" opacity=".34" />
+  <path d="M919 170v76" stroke="#0D2A34" stroke-width="8" stroke-linecap="round" opacity=".34" />
+  <rect x="846" y="278" width="146" height="18" rx="9" fill="#0D2A34" opacity=".22" />
+  <rect x="846" y="314" width="116" height="18" rx="9" fill="#0D2A34" opacity=".18" />
+  <rect x="846" y="408" width="146" height="18" rx="9" fill="#0D2A34" opacity=".22" />
+  <rect x="846" y="444" width="174" height="18" rx="9" fill="#0D2A34" opacity=".18" />
+  <rect x="846" y="560" width="146" height="18" rx="9" fill="#A8F6FF" opacity=".55" />
+  <rect x="874" y="636" width="92" height="8" rx="4" fill="#4F7380" opacity=".7" />
+</svg>

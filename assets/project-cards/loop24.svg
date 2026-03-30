@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">LOOP24 radio project card</title>
+  <desc id="desc">24 by 7 Polish radio streaming app with instant playback, background listening, and simple controls.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#140C10" />
+      <stop offset="55%" stop-color="#29151E" />
+      <stop offset="100%" stop-color="#6F2232" />
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFD8E3" />
+      <stop offset="100%" stop-color="#FF7AA2" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" rx="36" fill="url(#bg)" />
+  <circle cx="1004" cy="108" r="126" fill="#FF7AA2" opacity=".16" />
+  <circle cx="1120" cy="622" r="184" fill="#FFD8E3" opacity=".08" />
+  <path d="M0 582C130 536 256 508 396 534C566 564 652 612 802 580C936 551 1042 498 1200 526V720H0Z" fill="#09070A" opacity=".42" />
+  <rect x="74" y="78" width="314" height="50" rx="25" fill="#FFFFFF" opacity=".11" />
+  <text x="106" y="111" fill="#FFEAF1" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="4">RADIO STREAMING APP</text>
+  <text x="74" y="224" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="78" font-weight="800">LOOP24</text>
+  <text x="74" y="300" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="78" font-weight="800">Radio Polska</text>
+  <text x="74" y="386" fill="#FFE6EE" font-family="Segoe UI, Arial, sans-serif" font-size="30">A fast Polish radio stream built for instant</text>
+  <text x="74" y="426" fill="#FFE6EE" font-family="Segoe UI, Arial, sans-serif" font-size="30">playback, nonstop listening, and low-friction use.</text>
+  <rect x="74" y="500" width="170" height="56" rx="28" fill="#FFFFFF" opacity=".14" />
+  <rect x="260" y="500" width="170" height="56" rx="28" fill="#FFFFFF" opacity=".14" />
+  <rect x="446" y="500" width="210" height="56" rx="28" fill="#FFFFFF" opacity=".14" />
+  <text x="118" y="536" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">24/7 stream</text>
+  <text x="300" y="536" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Polish radio</text>
+  <text x="486" y="536" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Background play</text>
+  <rect x="74" y="604" width="254" height="54" rx="27" fill="#120C10" opacity=".84" stroke="#FF9BB8" stroke-opacity=".5" />
+  <circle cx="112" cy="631" r="9" fill="#FF9BB8" />
+  <text x="136" y="639" fill="#FFF0F5" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="700">Live on Google Play</text>
+  <rect x="790" y="114" width="270" height="492" rx="42" fill="#0E0B0D" stroke="#FFD8E3" stroke-opacity=".25" stroke-width="4" />
+  <rect x="818" y="154" width="214" height="210" rx="28" fill="#FFF2F6" opacity=".96" />
+  <circle cx="875" cy="260" r="44" fill="#FF8CB0" opacity=".4" />
+  <circle cx="978" cy="260" r="44" fill="#6F2232" opacity=".76" />
+  <path d="M875 226c16 10 30 24 40 42c-10 17-24 31-40 42" stroke="#6F2232" stroke-width="14" stroke-linecap="round" fill="none" />
+  <path d="M978 226c16 10 30 24 40 42c-10 17-24 31-40 42" stroke="#FFD8E3" stroke-width="14" stroke-linecap="round" fill="none" />
+  <rect x="836" y="408" width="178" height="22" rx="11" fill="#FFE1EA" opacity=".18" />
+  <rect x="836" y="448" width="150" height="22" rx="11" fill="#FFE1EA" opacity=".14" />
+  <rect x="836" y="530" width="178" height="22" rx="11" fill="#FF9BB8" opacity=".32" />
+  <rect x="874" y="636" width="102" height="8" rx="4" fill="#6D535D" opacity=".7" />
+</svg>

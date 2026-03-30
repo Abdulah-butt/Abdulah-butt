@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">A2B ride hailing app project card</title>
+  <desc id="desc">Ride-matching app for passengers and drivers in Norway with real-time GPS tracking and verified profiles.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#10131A" />
+      <stop offset="58%" stop-color="#18263C" />
+      <stop offset="100%" stop-color="#1F5C7A" />
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFD166" />
+      <stop offset="100%" stop-color="#F57C00" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" rx="36" fill="url(#bg)" />
+  <circle cx="1026" cy="118" r="142" fill="#4FC3F7" opacity=".14" />
+  <circle cx="1122" cy="610" r="188" fill="#FFD166" opacity=".1" />
+  <path d="M0 580C150 528 286 503 428 532C569 562 688 608 810 574C920 544 1046 504 1200 530V720H0Z" fill="#091017" opacity=".46" />
+  <rect x="74" y="78" width="288" height="50" rx="25" fill="#FFFFFF" opacity=".12" />
+  <text x="106" y="111" fill="#DDEFFF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="4">RIDE HAILING APP</text>
+  <text x="74" y="224" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="78" font-weight="800">A2B</text>
+  <text x="74" y="300" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="78" font-weight="800">Ride Hailing</text>
+  <text x="74" y="386" fill="#D6E8F8" font-family="Segoe UI, Arial, sans-serif" font-size="30">Passenger and driver flows built around</text>
+  <text x="74" y="426" fill="#D6E8F8" font-family="Segoe UI, Arial, sans-serif" font-size="30">live tracking, verified profiles, and direct pay.</text>
+  <rect x="74" y="500" width="156" height="56" rx="28" fill="#FFFFFF" opacity=".14" />
+  <rect x="246" y="500" width="176" height="56" rx="28" fill="#FFFFFF" opacity=".14" />
+  <rect x="438" y="500" width="178" height="56" rx="28" fill="#FFFFFF" opacity=".14" />
+  <text x="124" y="536" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Norway</text>
+  <text x="292" y="536" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">GPS tracking</text>
+  <text x="478" y="536" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Driver network</text>
+  <rect x="74" y="604" width="254" height="54" rx="27" fill="#0B1217" opacity=".82" stroke="#FFD166" stroke-opacity=".5" />
+  <circle cx="112" cy="631" r="9" fill="#FFD166" />
+  <text x="136" y="639" fill="#FFF6D7" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="700">Live on Google Play</text>
+  <rect x="786" y="108" width="280" height="504" rx="40" fill="#0B1217" stroke="#FFFFFF" stroke-opacity=".18" stroke-width="4" />
+  <rect x="816" y="148" width="220" height="424" rx="26" fill="url(#screen)" />
+  <path d="M850 202h152" stroke="#26313D" stroke-width="12" stroke-linecap="round" opacity=".22" />
+  <path d="M850 252h122" stroke="#26313D" stroke-width="12" stroke-linecap="round" opacity=".18" />
+  <path d="M868 446c34-76 92-124 150-152" stroke="#26313D" stroke-width="18" stroke-linecap="round" opacity=".18" fill="none" />
+  <circle cx="902" cy="452" r="28" fill="#17222D" opacity=".28" />
+  <circle cx="982" cy="368" r="28" fill="#17222D" opacity=".22" />
+  <path d="M882 452h40" stroke="#F6FBFF" stroke-width="8" stroke-linecap="round" />
+  <path d="M962 368h40" stroke="#F6FBFF" stroke-width="8" stroke-linecap="round" />
+  <rect x="860" y="518" width="132" height="20" rx="10" fill="#17222D" opacity=".24" />
+  <rect x="874" y="636" width="104" height="8" rx="4" fill="#5E6E7B" opacity=".7" />
+</svg>
