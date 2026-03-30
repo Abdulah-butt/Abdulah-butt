@@ -1,183 +1,245 @@
-<h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
-<h3 align="center">Flutter developer</h3>
-
-<a href="https://www.fiverr.com/share/aYrgjW"><img src="https://github.com/Abdulah-butt/Abdulah-butt/blob/main/abdullah%20butt.png" alt="banner" border="0" width="100%"></a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=butt09&label=Profile%20views&color=0e75b6&style=flat" alt="Abdulah-butt" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdulah-butt" alt="Abdulah-butt" /></a> </p>
-
-
-# Projects
-
-## Lookout Mobile app(Android & IOS)
-
-**Description:** Introducing Lookout: Your Ultimate Crime Alert & Neighborhood Watch Companion
-🚨 Stay Ahead of Crime 🚨
-With Lookout, you're never in the dark about criminal activity in your area. Create and share alerts for various criminal incidents, instantly notifying your community. It's your power to make your neighborhood safer.
-
-**Architecture:** Clean Code Architecture, Layered Approach used (data, domain, presentation layers), REST APIs, OneSignal Notifications, Google Maps
-
-**State Management:** BLoC (cubit)
-
-
-<div style="display: flex; justify-content: center;">
-  <p align="center">
-    <a href="https://play.google.com/store/apps/details?id=com.app.lookout">
-      <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200" alt="AppStore">
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://apps.apple.com/us/app/lookout-watchgroup/id6467555973">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Download_on_the_App_Store_Badge_IT_RGB_blk.svg/800px-Download_on_the_App_Store_Badge_IT_RGB_blk.svg.png" width="180" alt="Google Play Store">
-    </a>
-  </p>
-</div>
-
-----
-
-
-
-## K-Doc ( beauty care app, Android & IOS)
-
-**Description:** The app consists of 4 sections: Home/Reservation/Events/Reviews. The home screen consists of a banner ad. at the top and a list of events below it. Among the banner ads, there can be a group purchase event, which is an event where a certain number of people can receive an additional discount if they apply for the event within the deadline. In the Reservation section, you can see introductions and related information of hospitals, make a reservation for the hospital, or leave a simple question.
-
-**Architecture:** Clean Code Architecture, Layered Approach used (data, domain, presentation layers), Firebase
-
-**State Management:** GetX
-
-
-<div style="display: flex; justify-content: center;">
-  <p align="center">
-    <a href="https://play.google.com/store/apps/details?id=com.beauty.doc2">
-      <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200" alt="AppStore">
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://apps.apple.com/app/k-doc/id6443486600">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Download_on_the_App_Store_Badge_IT_RGB_blk.svg/800px-Download_on_the_App_Store_Badge_IT_RGB_blk.svg.png" width="180" alt="Google Play Store">
-    </a>
-  </p>
-</div>
-
-----
-
-
-
-## Rock & Love  ( Music bands app, Android & IOS)
-
-**Description:** An application for bands and listeners allows for easy management of concerts, organizing events, interacting with fans, and promoting their music.
-
-**Architecture:** Clean Code Architecture, Layered Approach used (data, domain, presentation layers), Firebase
-
-**State Management:** BLoC (cubit)
-
-
-<div style="display: flex; justify-content: center;">
-  <p align="center">
-    <a href="https://play.google.com/store/apps/details?id=com.rocklove.rockandlove.rockandlove">
-      <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200" alt="AppStore">
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://apps.apple.com/us/app/rock-and-love/id6473719991">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Download_on_the_App_Store_Badge_IT_RGB_blk.svg/800px-Download_on_the_App_Store_Badge_IT_RGB_blk.svg.png" width="180" alt="Google Play Store">
-    </a>
-  </p>
-</div>
-
-----
-
-
-
-
-## Mesnaf (Banking app for private use, IOS)
-
-**Description:** Masnaf is a special application for coupons for beneficiaries, displaying and displaying coupons, where the association adds a coupon through which the beneficiary sends the coupon to the merchant to benefit from it.
-
-**Architecture:** Clean Code Architecture, Layered Approach used (data, domain, presentation layers), RestAPIs, Hive local database
-
-**State Management:** BLoC (cubit)
-
-
-<div style="display: flex; justify-content: center;">
-  <p align="center">
-    <a href="https://apps.apple.com/us/app/%D9%85%D8%B3%D9%86%D8%A7%D9%81/id6471083459">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Download_on_the_App_Store_Badge_IT_RGB_blk.svg/800px-Download_on_the_App_Store_Badge_IT_RGB_blk.svg.png" width="180" alt="Google Play Store">
-    </a>
-  </p>
-</div>
-
-----
-
-
-
-## ChatG (App exact like chatGPT, IOS)
-
-**Description:** This app always works with the latest and publicly available GPT API. We also plan to add useful and interesting features that do not exist in the GPT3.5 UI.
-
-**Architecture:** Clean Code Architecture, Layered Approach used (data, domain, presentation layers), OpenAI API, AppLovin Ads, Hive local database
-
-**State Management:** BLoC (cubit)
-
-
-<div style="display: flex; justify-content: center;">
-  <p align="center">
-    <a href="https://apps.apple.com/us/app/chatg-%E6%97%A5%E6%9C%AC%E8%AA%9E-ai-%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%83%84%E3%83%BC%E3%83%AB/id6447132229">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Download_on_the_App_Store_Badge_IT_RGB_blk.svg/800px-Download_on_the_App_Store_Badge_IT_RGB_blk.svg.png" width="180" alt="Google Play Store">
-    </a>
-  </p>
-</div>
-
-----
-
-
-
-## Land.cy (webview app, IOS)
-
-**Description:** Land.cy helps you find plots, fields, and other types of real estate advertised by real estate agents, property developers and asset management companies.
-
-**Architecture:** Clean Code Architecture, Layered Approach used (data, domain, presentation layers), Webview, JS channel handling for dual theme
-
-**State Management:** BLoC (cubit)
-
-
-<div style="display: flex; justify-content: center;">
-  <p align="center">
-    <a href="https://apps.apple.com/us/app/land-cy/id6450110690">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Download_on_the_App_Store_Badge_IT_RGB_blk.svg/800px-Download_on_the_App_Store_Badge_IT_RGB_blk.svg.png" width="180" alt="Google Play Store">
-    </a>
-  </p>
-</div>
-
-----
-
-
-
-<p align="left"> <a href="https://twitter.com/call_Me_Abd" target="blank"><img src="https://img.shields.io/twitter/follow/call_Me_Abd?logo=twitter&style=for-the-badge" alt="call_Me_Abd" /></a> </p>
-
-- 🌱 I’m currently learning **NodeJs**
-
-- 👯 I’m looking to collaborate on **flutter apps**
-
-- 💬 Ask me about **flutter, dart,java, frontend,android, iOS**
-
-- 📫 How to reach me **abdullahbutt12320@gmail.com**
-
-- 📄 Know about my experiences [www.fiverr.com/abdullahbutt590](www.fiverr.com/abdullahbutt590)
-
-<h3 align="center">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/call_Me_Abd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="call_Me_Abd" height="30" width="40" /></a>
-<a href="https://instagram.com/_abd_butt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_abd_butt" height="30" width="40" /></a>
-<a href="https://www.fiverr.com/share/aYrgjW" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="abdullahbutt590" height="30" width="40" /></a>
+<p align="center">
+  <img src="./profile-banner.svg" alt="Muhammad Abdullah banner" width="100%" />
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align=""> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://kodingklouds.com">
+    <img src="https://img.shields.io/badge/Portfolio-KodingKlouds-05070F?style=for-the-badge&logo=googlechrome&logoColor=00E7FF" alt="Portfolio" />
+  </a>
+  <a href="https://wa.me/923067529424?text=Hi%20Muhammad%20Abdullah%2C%20I%20want%20to%20discuss%20a%20project.">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-071A12?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp" />
+  </a>
+  <a href="mailto:support@kodingklouds.com">
+    <img src="https://img.shields.io/badge/Email-Direct-160B14?style=for-the-badge&logo=gmail&logoColor=FF5B79" alt="Email" />
+  </a>
+  <a href="https://www.fiverr.com/abdullahbutt590?public_mode=true">
+    <img src="https://img.shields.io/badge/Fiverr-Profile-0B1220?style=for-the-badge&logo=fiverr&logoColor=1DBF73" alt="Fiverr" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=VCPGMjCW0is">
+    <img src="https://img.shields.io/badge/Intro-Video-120B10?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="Intro video" />
+  </a>
+</p>
 
+<p align="center">
+  I build client-ready mobile apps, web platforms, and backend systems for startups, founders, and companies that need polished software shipped fast.<br />
+  My latest public portfolio is published through <a href="https://kodingklouds.com">KodingKlouds</a>, with current delivery centered on Flutter, React/Next.js, Node.js, Firebase, AI integrations, and launch-ready product builds.
+</p>
 
-<h3 align="center">Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdulah-butt&show_icons=true&locale=en" alt="Abdulah-butt" /></p>
+<p align="center">
+  <strong>Open to freelance work, product builds, and long-term collaborations across the US, UK, AU, CA, EU, and Asia.</strong>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulah-butt&" alt="Abdulah-butt" /></p>
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <strong>200+</strong><br />
+      Projects delivered
+    </td>
+    <td align="center" width="25%">
+      <strong>100+</strong><br />
+      Happy clients
+    </td>
+    <td align="center" width="25%">
+      <strong>4.9/5</strong><br />
+      Public aggregate rating
+    </td>
+    <td align="center" width="25%">
+      <strong>7-14 days</strong><br />
+      MVP-focused launch window
+    </td>
+  </tr>
+</table>
+
+## What I Build
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Flutter mobile apps</strong><br />
+      Cross-platform iOS and Android products with native-feel UX, realtime features, push notifications, subscriptions, and launch support.
+    </td>
+    <td width="50%" valign="top">
+      <strong>React and Next.js web apps</strong><br />
+      Fast, conversion-focused websites, dashboards, booking systems, marketplaces, and admin panels with SEO and Core Web Vitals in mind.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Backend and API systems</strong><br />
+      Secure APIs, auth, analytics, logging, databases, cloud deployment, and scalable infrastructure that can support growth instead of blocking it.
+    </td>
+    <td width="50%" valign="top">
+      <strong>AI integration</strong><br />
+      ChatGPT workflows, intelligent assistants, automation, predictive features, and product-ready AI functionality that fits the business use case.
+    </td>
+  </tr>
+</table>
+
+## Selected Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://play.google.com/store/apps/details?id=com.app.tripPLNR">
+        <img src="https://kodingklouds.com/assets/triplnr-Ba01_9Tw.jpg" alt="TripPlanner preview" width="100%" />
+      </a>
+      <h3 align="center">TripPlanner</h3>
+      <p align="center">
+        Travel planning app that helps users search, compare, and book tickets, tours, and activities across 2500+ destinations.
+      </p>
+      <p align="center"><strong>Impact:</strong> 300%+ engagement lift</p>
+      <p align="center"><code>Flutter</code> <code>Firebase</code> <code>Node.js</code> <code>AI/ML</code></p>
+      <p align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.app.tripPLNR">Play Store</a> |
+        <a href="https://apps.apple.com/us/app/tripplnr-com/id6470180069">App Store</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://play.google.com/store/apps/details?id=com.app.gtechofficial&hl=en">
+        <img src="https://kodingklouds.com/assets/gtc-Cdc6YPal.png" alt="GTC Wallet preview" width="100%" />
+      </a>
+      <h3 align="center">GTC Wallet</h3>
+      <p align="center">
+        Cryptocurrency wallet and rewards product built for network growth, task completion, social engagement, and community activation.
+      </p>
+      <p align="center"><strong>Impact:</strong> 60% ops reduction</p>
+      <p align="center"><code>Flutter</code> <code>BLoC</code> <code>Crypto</code> <code>Firebase</code></p>
+      <p align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.app.gtechofficial&hl=en">Play Store</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://apps.apple.com/us/app/land-cy/id6450110690">
+        <img src="https://kodingklouds.com/assets/landcy-e0vNMsXf.png" alt="Landcy preview" width="100%" />
+      </a>
+      <h3 align="center">Landcy</h3>
+      <p align="center">
+        Real estate platform for plots, fields, and other property listings with search, filtering, and alert-driven discovery.
+      </p>
+      <p align="center"><strong>Impact:</strong> 70% faster search</p>
+      <p align="center"><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Firebase</code></p>
+      <p align="center">
+        <a href="https://apps.apple.com/us/app/land-cy/id6450110690">App Store</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://play.google.com/store/apps/details?id=com.aldroid.voidspace_ai">
+        <img src="https://kodingklouds.com/assets/voidspace-Dg_TCXbd.png" alt="VoidSpace preview" width="100%" />
+      </a>
+      <h3 align="center">VoidSpace</h3>
+      <p align="center">
+        Gamified life and showcase platform built around retention, personalized user flows, and strong product-led engagement loops.
+      </p>
+      <p align="center"><strong>Impact:</strong> 250% retention boost</p>
+      <p align="center"><code>Flutter</code> <code>Node.js</code> <code>MongoDB</code> <code>AWS</code></p>
+      <p align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.aldroid.voidspace_ai">Play Store</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><strong>More recent launches</strong></summary>
+  <br />
+
+  <table>
+    <tr>
+      <td width="33%" valign="top">
+        <a href="https://play.google.com/store/apps/details?id=com.salim.user">
+          <img src="https://kodingklouds.com/assets/salim-DgjvS_h5.jpeg" alt="Salim Service preview" width="100%" />
+        </a>
+        <p align="center"><strong>Salim Service</strong></p>
+        <p align="center">Booking platform for home maintenance and service operations.</p>
+        <p align="center"><strong>Result:</strong> $1M+ first-year projection</p>
+      </td>
+      <td width="33%" valign="top">
+        <a href="https://apps.apple.com/us/app/%D9%85%D8%B3%D9%86%D8%A7%D9%81/id6471083459">
+          <img src="https://kodingklouds.com/assets/mesnaf-DK4aSjG9.jpg" alt="Mesnaf preview" width="100%" />
+        </a>
+        <p align="center"><strong>Mesnaf</strong></p>
+        <p align="center">Banking and finance product with AI-driven insight workflows.</p>
+        <p align="center"><strong>Result:</strong> 80% faster analysis</p>
+      </td>
+      <td width="33%" valign="top">
+        <img src="https://kodingklouds.com/assets/titaf_dashboard-BciXxbUB.jpg" alt="Titaf Admin preview" width="100%" />
+        <p align="center"><strong>Titaf Admin</strong></p>
+        <p align="center">Ops dashboard for users, artisans, orders, payments, and support workflows.</p>
+        <p align="center"><strong>Result:</strong> 70% fewer support tickets</p>
+      </td>
+    </tr>
+  </table>
+</details>
+
+## Delivery Model
+
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <strong>Discovery</strong><br />
+      Scope, success metrics, budget alignment, and the right build path before writing throwaway code.
+    </td>
+    <td width="33%" valign="top" align="center">
+      <strong>Design and build</strong><br />
+      PRD, Figma, engineering, weekly sprint demos, and tight iteration around the actual business goal.
+    </td>
+    <td width="33%" valign="top" align="center">
+      <strong>Launch and grow</strong><br />
+      Store approvals, analytics, crash monitoring, QA, post-launch support, and the next roadmap step.
+    </td>
+  </tr>
+</table>
+
+- Requirements document can start within 12 hours.
+- First working build can land in 7-14 days for MVP-focused projects.
+- Milestone-based payments keep progress transparent.
+- QA, analytics, and crash monitoring are part of delivery.
+- Post-launch support is included for 30 days.
+
+## Best Fit
+
+<p>
+  <code>Startups</code>
+  <code>SaaS</code>
+  <code>Marketplaces</code>
+  <code>Booking platforms</code>
+  <code>Fintech</code>
+  <code>Real estate</code>
+  <code>Travel products</code>
+  <code>Internal tools</code>
+  <code>Admin panels</code>
+  <code>AI features</code>
+</p>
+
+## Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,nodejs,firebase,mongodb,postgres,aws,figma&theme=dark" alt="Tech stack" />
+</p>
+
+<p align="center">
+  Also used regularly: BLoC, Stripe, GraphQL/REST, App Store and Play Store deployment, CI/CD, SEO, schema, sitemaps, and product analytics.
+</p>
+
+## Contact
+
+<p align="center">
+  If you need a strong MVP, a polished client-facing app, or a web platform that actually converts, send me the brief and I will reply with scope, timeline, and next steps.
+</p>
+
+<p align="center">
+  <a href="https://kodingklouds.com">
+    <img src="https://img.shields.io/badge/KodingKlouds-Visit%20Website-05070F?style=for-the-badge&logo=googlechrome&logoColor=00E7FF" alt="Website" />
+  </a>
+  <a href="mailto:support@kodingklouds.com">
+    <img src="https://img.shields.io/badge/Email-support%40kodingklouds.com-160B14?style=for-the-badge&logo=gmail&logoColor=FF5B79" alt="Email address" />
+  </a>
+  <a href="https://wa.me/923067529424?text=Hi%20Muhammad%20Abdullah%2C%20I%20want%20to%20discuss%20a%20project.">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B92%20306%207529424-071A12?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp number" />
+  </a>
+  <a href="https://www.fiverr.com/abdullahbutt590?public_mode=true">
+    <img src="https://img.shields.io/badge/Fiverr-See%20Profile-0B1220?style=for-the-badge&logo=fiverr&logoColor=1DBF73" alt="Fiverr profile" />
+  </a>
+</p>

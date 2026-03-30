@@ -1,0 +1,113 @@
+<svg width="1200" height="380" viewBox="0 0 1200 380" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Muhammad Abdullah profile banner</title>
+  <desc id="desc">Animated profile banner highlighting Flutter, React, backend, and AI product development services.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="80" y1="30" x2="1120" y2="350" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A0F2D" />
+      <stop offset="1" stop-color="#05070F" />
+    </linearGradient>
+    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(250 70) rotate(23) scale(260 180)">
+      <stop stop-color="#00E7FF" stop-opacity="0.30" />
+      <stop offset="1" stop-color="#00E7FF" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="redGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(950 300) rotate(-18) scale(280 200)">
+      <stop stop-color="#FF4D6D" stop-opacity="0.22" />
+      <stop offset="1" stop-color="#FF4D6D" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#00E7FF" />
+      <stop offset="1" stop-color="#FF4D6D" />
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#94A3B8" stroke-opacity="0.12" stroke-width="1"/>
+    </pattern>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#020617" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="380" rx="28" fill="url(#bg)" />
+  <rect width="1200" height="380" rx="28" fill="url(#grid)" />
+  <rect width="1200" height="380" rx="28" fill="url(#cyanGlow)" />
+  <rect width="1200" height="380" rx="28" fill="url(#redGlow)" />
+
+  <g opacity="0.9">
+    <circle cx="1010" cy="78" r="7" fill="#00E7FF">
+      <animate attributeName="opacity" values="0.15;0.9;0.15" dur="4.5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1074" cy="120" r="5" fill="#FF4D6D">
+      <animate attributeName="opacity" values="0.2;0.8;0.2" dur="5.3s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="982" cy="144" r="4" fill="#FFFFFF">
+      <animate attributeName="opacity" values="0.12;0.7;0.12" dur="3.8s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <g opacity="0.7">
+    <path d="M730 92C785 92 818 122 855 154C889 183 922 210 978 210H1086" stroke="url(#line)" stroke-width="2.2" stroke-linecap="round" stroke-dasharray="6 9">
+      <animate attributeName="stroke-dashoffset" values="0;-120" dur="10s" repeatCount="indefinite" />
+    </path>
+    <path d="M732 250C804 250 842 218 878 192C916 164 952 140 1040 140H1116" stroke="url(#line)" stroke-width="2.2" stroke-linecap="round" stroke-dasharray="6 9">
+      <animate attributeName="stroke-dashoffset" values="0;120" dur="11s" repeatCount="indefinite" />
+    </path>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <rect x="748" y="54" width="380" height="250" rx="24" fill="#091226" fill-opacity="0.88" stroke="#94A3B8" stroke-opacity="0.16"/>
+    <rect x="776" y="82" width="118" height="32" rx="16" fill="#071B22" stroke="#00E7FF" stroke-opacity="0.28"/>
+    <text x="835" y="103" fill="#D6F9FF" font-size="14" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">ACTIVE BUILD STACK</text>
+
+    <rect x="776" y="130" width="140" height="54" rx="18" fill="#0B162C" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <text x="794" y="151" fill="#7DD3FC" font-size="12" font-family="Segoe UI, Arial, sans-serif">Delivery</text>
+    <text x="794" y="171" fill="#FFFFFF" font-size="26" font-weight="700" font-family="Segoe UI, Arial, sans-serif">7-14 days</text>
+
+    <rect x="934" y="130" width="166" height="54" rx="18" fill="#13111F" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <text x="952" y="151" fill="#FDA4AF" font-size="12" font-family="Segoe UI, Arial, sans-serif">Public proof</text>
+    <text x="952" y="171" fill="#FFFFFF" font-size="26" font-weight="700" font-family="Segoe UI, Arial, sans-serif">4.9 / 5</text>
+
+    <rect x="776" y="202" width="324" height="78" rx="20" fill="#0C1428" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <text x="798" y="225" fill="#E2E8F0" font-size="14" font-family="Segoe UI, Arial, sans-serif">Current focus</text>
+    <text x="798" y="249" fill="#FFFFFF" font-size="18" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Flutter apps | React/Next.js | Node APIs</text>
+    <text x="798" y="270" fill="#CBD5E1" font-size="14" font-family="Segoe UI, Arial, sans-serif">Launch-ready software, clean UX, strong product execution</text>
+  </g>
+
+  <g>
+    <text x="78" y="72" fill="#9FE7F1" font-size="16" letter-spacing="4" font-family="Segoe UI, Arial, sans-serif">KODINGKLOUDS PORTFOLIO</text>
+    <text x="78" y="146" fill="#FFFFFF" font-size="54" font-weight="800" font-family="Segoe UI, Arial, sans-serif">MUHAMMAD</text>
+    <text x="78" y="204" fill="#FFFFFF" font-size="54" font-weight="800" font-family="Segoe UI, Arial, sans-serif">ABDULLAH</text>
+    <text x="78" y="246" fill="#DDE7F2" font-size="24" font-family="Segoe UI, Arial, sans-serif">Flutter | React/Next.js | Node APIs | AI Integration</text>
+    <text x="78" y="284" fill="#B8C4D4" font-size="18" font-family="Segoe UI, Arial, sans-serif">Building mobile apps, web platforms, admin systems, and product MVPs that are built to launch.</text>
+  </g>
+
+  <g transform="translate(78 314)">
+    <g>
+      <rect width="126" height="34" rx="17" fill="#081722" stroke="#00E7FF" stroke-opacity="0.30"/>
+      <text x="63" y="22" fill="#E6FBFF" font-size="14" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">200+ Projects</text>
+    </g>
+    <g transform="translate(140 0)">
+      <rect width="122" height="34" rx="17" fill="#15111A" stroke="#FF4D6D" stroke-opacity="0.28"/>
+      <text x="61" y="22" fill="#FFF1F4" font-size="14" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">100+ Clients</text>
+    </g>
+    <g transform="translate(276 0)">
+      <rect width="116" height="34" rx="17" fill="#0D1224" stroke="#FFFFFF" stroke-opacity="0.16"/>
+      <text x="58" y="22" fill="#F8FAFC" font-size="14" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">4.9 Rating</text>
+    </g>
+    <g transform="translate(406 0)">
+      <rect width="152" height="34" rx="17" fill="#0B162C" stroke="#00E7FF" stroke-opacity="0.22"/>
+      <text x="76" y="22" fill="#E6FBFF" font-size="14" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">Worldwide Delivery</text>
+    </g>
+  </g>
+
+  <g transform="translate(1030 58)">
+    <rect width="54" height="54" rx="16" fill="#081722" stroke="#00E7FF" stroke-opacity="0.28"/>
+    <text x="27" y="34" fill="#E6FBFF" font-size="18" font-weight="700" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">AI</text>
+    <animateTransform attributeName="transform" type="translate" values="1030 58;1030 48;1030 58" dur="6s" repeatCount="indefinite" />
+  </g>
+
+  <g transform="translate(1090 264)">
+    <rect width="56" height="56" rx="16" fill="#15111A" stroke="#FF4D6D" stroke-opacity="0.28"/>
+    <text x="28" y="35" fill="#FFF1F4" font-size="14" font-weight="700" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">MVP</text>
+    <animateTransform attributeName="transform" type="translate" values="1090 264;1090 254;1090 264" dur="5s" repeatCount="indefinite" />
+  </g>
+</svg>
